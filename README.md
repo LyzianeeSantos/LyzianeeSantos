@@ -1,6 +1,7 @@
 # Lyziane Santos
 
 👩‍🎓 Acadêmica de Engenharia de Software
+🏭 Inciando trabalho em Automação Industrial
 
 ## Sobre Mim
 
