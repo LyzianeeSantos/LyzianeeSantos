@@ -1,7 +1,7 @@
 # Lyziane Santos
 
 👩‍🎓 Acadêmica de Engenharia de Software
-🏭 Inciando trabalho em Automação Industrial
+🏭 Inciando trabalho em Desenvolvedora de Software
 
 ## Sobre Mim
 
@@ -9,10 +9,10 @@ Sou estudante de Engenharia de Software e estou apaixonada por tecnologia e dese
 
 ## Tecnologias e Ferramentas
 
-- 🌐 **Linguagens de Programação**: Dart, Java, JavaScript, Python, PHP
-- 🛠️ **Frameworks**: Flutter, React, PHP unit, Composer
-- 💾 **Banco de Dados**: MySQL, PostgreSQL
-- 🖥️ **Ferramentas**: Git, GitHub, Visual Studio Code
+- 🌐 **Linguagens de Programação**: Html, Css, JavaScript, PHP
+- 🛠️ **Frameworks**: Flutter, PHP Laravel, NodeJs, Composer, Vue, TailwindCss
+- 💾 **Banco de Dados**: PostgreSQL, MySQL
+- 🖥️ **Ferramentas**: Git, GitHub, Visual Studio Code, PhpStorm
 
 ## Projetos
 
@@ -26,6 +26,7 @@ Sou estudante de Engenharia de Software e estou apaixonada por tecnologia e dese
 
 ## O que estou aprendendo atualmente
 
+- Desenvolvimento Front-end
 - Desenvolvimento Mobile com Flutter
 - Desenvolvimento em PHP
 - Desenvolvimento em Automação Industrial
