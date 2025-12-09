@@ -51,15 +51,16 @@ Atualmente focada em **desenvolvimento front-end, mobile e automação industria
 
 ## 🛠 Projetos em Destaque
 
-### 📱 **Agenda-Flutter**
-🔗 *https://github.com/LyzianeeSantos/Agenda-Flutter*  
-Aplicativo de agenda para gerenciamento de contatos, feito com Flutter e pensado para facilitar o dia a dia.
+### 🎓 **Trabalho de Conclusão de Curso (TCC)**
+🔗 *https://github.com/LyzianeeSantos/TCC*  
+Desenvolvimento de um **sistema de agendamento e gerenciamento de serviços**, com aplicação prática em um caso real.  
+O projeto envolve construção de interface, arquitetura de software, banco de dados e documentação acadêmica completa.
 
 ---
 
-### 💼 **Projeto Alcione**
-🔗 *https://github.com/LyzianeeSantos/Projeto_Alcione*  
-Sistema de **agendamento** + **landing page** desenvolvido para destacar os serviços e profissões da empreendedora Alcione (minha mãe 💛).
+### 📱 **Agenda-Flutter**
+🔗 *https://github.com/LyzianeeSantos/Agenda-Flutter*  
+Aplicativo de agenda para gerenciamento de contatos, feito com Flutter e pensado para facilitar o dia a dia.
 
 ---
 
